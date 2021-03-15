@@ -82,7 +82,7 @@ function maxValue(x, y, z) {
     if (z > largestNumber) {
         largestNumber = z;
     }
-    return largestNumber;
+    return largestNumber; // of: Math.max(x,y,z)
 }
 
 
